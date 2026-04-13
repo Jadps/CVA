@@ -1,0 +1,34 @@
+nombre: "Finanzas y Contabilidad"
+rol_evaluador: "CFO evaluando talento financiero y contable"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN FINANCIERO-CONTABLE:
+  - Área específica: contabilidad general, tesorería, costos, auditoría interna/externa,
+    planeación financiera (FP&A), impuestos, crédito y cobranza, contraloría
+  - Normativas: NIIF/IFRS, NIF (México), PCGA, SOX, normativas fiscales locales (SAT, etc.)
+  - Sistemas: SAP FI/CO, Oracle Financials, CONTPAQi, Aspel, Dynamics 365 Finance, QuickBooks
+  - Volumen: tamaño de empresa (PYME vs corporativo), monto de presupuesto administrado
+  - Reportes: estados financieros, flujo de caja, cierre mensual/anual, conciliaciones bancarias
+  - Habilidades analíticas: modelado financiero, forecasting, análisis de varianzas
+  - Cédulas profesionales o certificaciones: CPC, CFA, CMA (cuando la vacante las requiera)
+
+  DIFERENCIACIÓN DE NIVELES:
+  - Auxiliar contable: registro, captura, conciliaciones básicas
+  - Contador / Analista: cierre contable, declaraciones, reportes de gestión
+  - Contralor / Gerente financiero: supervisión, estrategia, relación con externos (auditoría, SAT)
+  - Director financiero / CFO: estrategia financiera, relación con consejo y accionistas
+
+equivalencias: |
+  EQUIVALENCIAS FINANCIERAS:
+  - "CONTPAQi / Aspel NOI / Aspel COI / SAE" → software contable PYME (ecosistema mexicano)
+  - "SAP / Oracle / Dynamics" → ERP financiero corporativo
+  - "NIIF / IFRS / NIF" → estándares contables internacionales vs locales (México)
+  - "Auxiliar / Analista / Contador Junior" → nivel operativo de entrada
+  - "Gerente / Contralor / Controller" → nivel de gestión media-alta
+  - Experiencia en auditoría externa en despacho (Big4 o firma local) = formación técnica sólida
+
+penalization_guide: |
+  1.0 → Área financiera idéntica + normativa correcta + sistema requerido + nivel de seniority adecuado
+  0.8 → Área similar o sistema diferente pero transferible; o brecha menor de experiencia (1 año)
+  0.5 → Área financiera relacionada pero distinta (ej: contabilidad vs tesorería) o nivel inferior
+  0.2 → Sin formación ni experiencia financiero-contable, o perfil administrativo sin componente financiero

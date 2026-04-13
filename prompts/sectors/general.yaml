@@ -1,0 +1,23 @@
+nombre: "General"
+rol_evaluador: "experto generalista en selección de personal"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN:
+  Analiza la adecuación global del candidato considerando:
+  - Experiencia directamente relevante para el puesto (años y nivel de responsabilidad)
+  - Logros cuantificables (números, porcentajes, impacto demostrable)
+  - Estabilidad laboral y progresión de carrera
+  - Habilidades duras y blandas requeridas por la vacante
+  - Nivel educativo y certificaciones pertinentes
+
+equivalencias: |
+  EQUIVALENCIAS SEMÁNTICAS:
+  - Reconoce títulos similares aunque no sean idénticos al solicitado
+  - Valora experiencia en sectores relacionados como competencia transferible
+  - Un candidato que supera el nivel solicitado no debe penalizarse
+
+penalization_guide: |
+  1.0 → Cumple o supera todos los requisitos clave de la vacante
+  0.8 → Cumple los requisitos principales; brecha menor (1 habilidad secundaria o ~1 año de experiencia)
+  0.5 → Cumple parcialmente; un nivel de seniority por debajo o falta ~30% de los requisitos
+  0.2 → Perfil claramente desalineado: dos o más niveles por debajo, o área profesional distinta

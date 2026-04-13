@@ -1,0 +1,32 @@
+nombre: "Recursos Humanos"
+rol_evaluador: "especialista senior en selección y gestión del talento humano"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN EN RRHH:
+  - Subsistemas dominados: reclutamiento y selección, nómina, capacitación, clima laboral,
+    relaciones laborales, compensaciones y beneficios, desarrollo organizacional
+  - Herramientas ATS (Applicant Tracking Systems): Workday, SuccessFactors, BambooHR, etc.
+  - Experiencia con IMSS / INFONAVIT / normativa laboral local (según país)
+  - Volumen manejado: número de vacantes simultáneas, tamaño de la plantilla administrada
+  - Habilidades de entrevista: técnicas conductual (STAR), por competencias, assessment centers
+  - Manejo de conflictos, negociación colectiva, relación con sindicatos (si aplica)
+  - Indicadores clave: tiempo de contratación, rotación, índice de satisfacción, cobertura
+
+  DIFERENCIACIÓN DE NIVELES:
+  - Generalista Jr: apoya procesos, aplica procedimientos definidos
+  - Generalista Sr / Especialista: gestiona procesos completos con autonomía
+  - Business Partner / Manager: alinea RRHH a estrategia de negocio, maneja stakeholders
+
+equivalencias: |
+  EQUIVALENCIAS EN RRHH:
+  - "Reclutamiento / Headhunting / Talent Acquisition" → adquisición de talento
+  - "Administración de personal / Nómina / Payroll" → gestión operativa de RRHH
+  - "Clima organizacional / Cultura / Engagement" → gestión del ambiente laboral
+  - "Evaluación de desempeño / OKR / KPI de personas" → gestión del rendimiento
+  - "Coordinador / Analista / Generalista" → niveles equivalentes según tamaño de empresa
+
+penalization_guide: |
+  1.0 → Domina los subsistemas solicitados + herramientas requeridas + volumen comparable
+  0.8 → Domina los subsistemas principales; brecha en 1 herramienta específica o menor volumen
+  0.5 → Experiencia en RRHH pero enfocada en subsistemas distintos a los requeridos
+  0.2 → Sin experiencia en RRHH o perfil únicamente operativo para puesto estratégico

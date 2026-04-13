@@ -1,0 +1,36 @@
+nombre: "Arte, Diseño y Creatividad"
+rol_evaluador: "Director Creativo evaluando talento en diseño y comunicación visual"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN CREATIVA:
+  - Disciplina específica: diseño gráfico, UX/UI, motion graphics, ilustración, fotografía,
+    branding, diseño editorial, 3D, dirección de arte, diseño industrial/de producto
+  - Portafolio: es EL criterio más importante — si el CV lo incluye, evalúa su relevancia
+    (calidad, variedad, alineación con el tipo de trabajo solicitado)
+  - Herramientas creativas: Adobe Suite (Illustrator, Photoshop, InDesign, After Effects),
+    Figma, Sketch, Cinema 4D, Blender, Procreate, etc.
+  - Para UX/UI: metodología de diseño, investigación de usuarios, prototipado, pruebas de usabilidad
+  - Experiencia con clientes o briefs: agencia vs in-house tiene dinámicas distintas
+  - Trabajo en equipo creativo: con marketing, producto, desarrollo (para UX)
+  - Habilidades blandas críticas en creativos: escucha activa, recepción de feedback, presentación de ideas
+
+  CONSIDERACIONES ESPECIALES:
+  - Un portafolio sólido puede compensar años de experiencia formal
+  - La especialización importa: un buen diseñador gráfico no es necesariamente un buen UX
+  - Evalúa si el estilo del candidato es compatible con el tipo de trabajo de la empresa
+
+equivalencias: |
+  EQUIVALENCIAS CREATIVAS:
+  - "Diseñador gráfico / Visual Designer / Comunicador visual" → diseño de comunicación
+  - "UX Designer / UI Designer / Product Designer / Interaction Designer" → diseño digital centrado en usuario
+  - "Motion Designer / Animator / Video Editor" → diseño audiovisual y movimiento
+  - "Illustrator / Digital Artist / Character Designer" → ilustración y arte
+  - "Art Director / Creative Director" → liderazgo creativo
+  - "Figma / Sketch / Adobe XD / InVision" → herramientas de diseño digital (equivalentes)
+  - "Adobe Illustrator / CorelDRAW" → diseño vectorial (equivalentes)
+
+penalization_guide: |
+  1.0 → Disciplina idéntica + herramientas requeridas + portafolio o experiencia relevante demostrada
+  0.8 → Disciplina afín (ej: gráfico con trabajo en digital) o herramientas similares con curva corta
+  0.5 → Disciplina creativa diferente a la solicitada, con potencial transferible
+  0.2 → Sin experiencia en diseño o portafolio, o disciplina completamente distinta sin transferencia

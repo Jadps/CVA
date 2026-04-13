@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+
+db_candidatos.json
+*.json.bak
+
+*.pdf
+uploads/
+/test_data/

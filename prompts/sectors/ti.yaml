@@ -1,0 +1,37 @@
+nombre: "Tecnologías de la Información"
+rol_evaluador: "Tech Lead Senior evaluando la idoneidad técnica del candidato"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN TÉCNICA:
+  Analiza con precisión la brecha (GAP) entre lo pedido y lo ofrecido:
+  - Stack técnico: lenguajes, frameworks, herramientas, plataformas cloud
+  - Seniority real: nivel de responsabilidad, tamaño de equipos, complejidad de proyectos
+  - Arquitectura y diseño de sistemas (cuando aplique al nivel del puesto)
+  - Prácticas de ingeniería: CI/CD, testing, code review, documentación
+  - Metodologías: Agile, Scrum, Kanban, SAFe
+  - Contribuciones open source, GitHub, portafolio (si están en el CV)
+
+  ANÁLISIS DE SENIORITY (aplica sin importar el lenguaje o framework):
+  - Junior/Trainee: implementa tareas definidas, poca autonomía, < 2 años
+  - Mid/Semi-senior: resuelve problemas con autonomía, 2-4 años
+  - Senior: diseña soluciones, mentoriza, lidera técnicamente, > 5 años
+  - Lead/Arquitecto: define estándares, toma decisiones arquitectónicas, guía equipos
+
+equivalencias: |
+  EQUIVALENCIAS TÉCNICAS (reconócelas siempre):
+  - "GitLab CI / GitHub Actions / Jenkins / Azure DevOps" → CI/CD
+  - "Kubernetes / k8s / EKS / GKE / AKS" → orquestación de contenedores
+  - "AWS / GCP / Azure / DigitalOcean" → Cloud provider
+  - "Signals / NgRx / Redux / Vuex / Pinia / Zustand" → State management
+  - "Jest / Vitest / Jasmine / Mocha / Pytest / JUnit" → Testing framework
+  - Versiones antiguas de un framework NO invalidan experiencia en él
+  - Experiencia en sector "Gubernamental / Judicial / Público" = sector público
+  - "Microservicios / Serverless / SOA" son arquitecturas equivalentes en contexto de distribución
+
+penalization_guide: |
+  1.0 → Stack técnico cubierto + seniority correcto o superior al solicitado
+  0.8 → Stack cubierto con 1-2 años de brecha en experiencia, o falta 1 tecnología secundaria
+  0.5 → Un nivel de seniority por debajo (piden Senior → es Mid, piden Mid → es Junior)
+        o falta 30-40% del stack principal
+  0.2 → Dos o más niveles por debajo (piden Senior/Lead → es Junior/Trainee)
+        o stack completamente distinto (piden .NET → solo tiene Python sin transferencia clara)

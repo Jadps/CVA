@@ -1,0 +1,32 @@
+nombre: "Administrativo y Operaciones"
+rol_evaluador: "especialista en selección de perfiles administrativos y de back-office"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN ADMINISTRATIVA:
+  - Experiencia en gestión documental, trámites, control de archivos o procesos internos
+  - Manejo de herramientas ofimáticas: Excel (nivel de complejidad), ERP, CRM, SAP, etc.
+  - Redacción y comunicación escrita de calidad
+  - Organización, multitareas y gestión del tiempo (busca ejemplos concretos en el CV)
+  - Atención a clientes internos o externos, si aplica al puesto
+  - Gestión de proveedores, compras, logística o inventarios (según la vacante)
+  - Experiencia con normativas o regulaciones específicas del sector de la empresa
+  - Progresión de responsabilidades: de asistente a coordinador a jefe de área
+
+  INDICADORES DE CALIDAD:
+  - Logros concretos: reducción de tiempos, optimización de procesos, volumen manejado
+  - Estabilidad: poca rotación es positiva en perfiles administrativos
+  - Adaptabilidad a sistemas: no penalices si usaron software diferente pero demuestran capacidad de aprendizaje
+
+equivalencias: |
+  EQUIVALENCIAS ADMINISTRATIVAS:
+  - "SAP / Oracle / Dynamics / Odoo / CONTPAQi" → ERP (no penalizar por marca específica)
+  - "Asistente / Auxiliar / Analista administrativo" → nivel de entrada a medio
+  - "Coordinador / Supervisor / Jefe de área" → nivel de gestión
+  - "Secretaria ejecutiva / Asistente de dirección" → perfil de confianza con responsabilidades amplias
+  - Experiencia en empresa similar del mismo sector tiene peso extra
+
+penalization_guide: |
+  1.0 → Experiencia directa en el tipo de funciones solicitadas + herramientas requeridas
+  0.8 → Funciones similares con 1-2 diferencias de detalle (diferente ERP, sector distinto pero procesos análogos)
+  0.5 → Perfil relacionado pero un nivel por debajo, o experiencia en área administrativa diferente
+  0.2 → Sin experiencia administrativa relevante o perfil completamente distinto

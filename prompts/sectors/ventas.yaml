@@ -1,0 +1,33 @@
+nombre: "Ventas y Comercial"
+rol_evaluador: "director comercial evaluando talento de ventas"
+
+evaluation_focus: |
+  FOCO DE EVALUACIÓN COMERCIAL:
+  - Tipo de venta: B2B / B2C / B2G, venta consultiva, transaccional, técnica, campo, interna
+  - Ciclo de venta: corto (retail, consumo) vs largo (enterprise, gobierno, proyectos)
+  - Métricas concretas: cuota de ventas alcanzada (%), ticket promedio, cartera de clientes,
+    crecimiento de cuenta, tasa de cierre, pipeline manejado
+  - Vertical o industria: tecnología, manufactura, servicios financieros, salud, etc.
+  - Gestión de CRM: Salesforce, HubSpot, Pipedrive, Zoho
+  - Habilidades: prospección, negociación, manejo de objeciones, cierre, postventa
+  - Liderazgo: si aplica, tamaño del equipo comercial gestionado y resultados obtenidos
+
+  SEÑALES DE ALERTA EN CVs DE VENTAS:
+  - Logros sin números son señales débiles — busca métricas específicas
+  - Alta rotación no siempre es negativa en ventas; evalúa si fue por resultados o por crecimiento
+  - El sector de la empresa anterior importa: transferir de B2C a B2B requiere adaptación
+
+equivalencias: |
+  EQUIVALENCIAS COMERCIALES:
+  - "Ejecutivo / Asesor / Representante / Account Executive" → vendedor individual
+  - "Key Account Manager / Gerente de Cuenta" → gestión de cuentas estratégicas
+  - "Sales Manager / Gerente Comercial / Director de Ventas" → liderazgo comercial
+  - "Inside Sales / SDR / BDR" → ventas internas / desarrollo de negocio
+  - "Canal / Distribución / Partners" → ventas indirectas
+  - Experiencia en industria relacionada tiene alta transferibilidad
+
+penalization_guide: |
+  1.0 → Tipo de venta idéntico (B2B/B2C/técnica) + métricas de logro demostradas + sector similar
+  0.8 → Tipo de venta correcto, sector diferente pero transferible; o métricas presentes pero menores
+  0.5 → Tipo de venta diferente (B2C→B2B) o sin métricas cuantificables de logro
+  0.2 → Sin experiencia en ventas directas o perfil de soporte/atención sin componente comercial
