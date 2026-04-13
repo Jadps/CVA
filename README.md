@@ -1,8 +1,15 @@
 # CVA — Mini analizador de CVs v2.0
 
-> **💡 Contexto del Proyecto (Proof of Concept)** > Este repositorio es una Prueba de Concepto (PoC) personal diseñada para experimentar con el ecosistema de IA generativa ejecutada en local (Ollama, Qwen). Dado que mi stack principal se centra en arquitecturas .NET y Angular, utilicé IA generativa como "pair programmer" para acelerar el desarrollo del boilerplate en Python y FastAPI. 
-> 
-> El objetivo principal de este proyecto no es demostrar maestría sintáctica en Python, sino explorar la **arquitectura de integración de LLMs**, el diseño de prompts dinámicos mediante YAML, y la gestión de procesos bloqueantes en APIs asíncronas.
+> [!IMPORTANT]
+> **Contexto del Proyecto (Proof of Concept)**
+> Este repositorio es una Prueba de Concepto (PoC) personal diseñada para experimentar con el ecosistema de IA generativa ejecutada en local. Dado que mi stack principal se centra en arquitecturas limpias con C# y Angular, utilicé este proyecto para explorar la integración de LLMs, el diseño de prompts dinámicos y la gestión de procesos bloqueantes en APIs asíncronas con Python.
+
+### Stack Tecnológico
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_2.5-4B4B4B?style=flat)
+![HuggingFace](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ## Cómo levantar
 
